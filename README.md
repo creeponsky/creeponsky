@@ -1,29 +1,29 @@
 <div align="center" style="display: flex; justify-content: center; gap: 20px; margin-bottom: 20px;">
 
-![GitHub Stats](https://gitspark.dev/api/github/stats-image?type=stats-card&username=CreepOnSky&theme=dark)
+![GitHub Stats](https://gitspark.dev/api/github/stats-image?type=stats-card&username=CreepOnSky)
 
-![Tech Stack](https://gitspark.dev/api/github/stats-image?type=tech-stack&username=CreepOnSky&theme=dark)
-
-</div>
-
-<div align="center" style="display: flex; justify-content: center; gap: 20px; margin-bottom: 20px;">
-
-![Work Rhythm Patterns](https://gitspark.dev/api/github/stats-image?type=work-rhythm-patterns&username=CreepOnSky&theme=dark)
-
-![Contribution Timeline](https://gitspark.dev/api/github/stats-image?type=contribution-timeline&username=CreepOnSky&theme=dark&chartStyle=area&showPoints=true&showValues=true)
+![Tech Stack](https://gitspark.dev/api/github/stats-image?type=tech-stack&username=CreepOnSky)
 
 </div>
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; margin-bottom: 20px;">
 
-![Weekly Activity](https://gitspark.dev/api/github/stats-image?type=weekly-activity&username=CreepOnSky&theme=dark)
+![Work Rhythm Patterns](https://gitspark.dev/api/github/stats-image?type=work-rhythm-patterns&username=CreepOnSky)
 
-![Daily Rhythm](https://gitspark.dev/api/github/stats-image?type=daily-rhythm&username=CreepOnSky&theme=dark)
+![Contribution Timeline](https://gitspark.dev/api/github/stats-image?type=contribution-timeline&username=CreepOnSky&chartStyle=area&showPoints=true&showValues=true)
+
+</div>
+
+<div align="center" style="display: flex; justify-content: center; gap: 20px; margin-bottom: 20px;">
+
+![Weekly Activity](https://gitspark.dev/api/github/stats-image?type=weekly-activity&username=CreepOnSky)
+
+![Daily Rhythm](https://gitspark.dev/api/github/stats-image?type=daily-rhythm&username=CreepOnSky)
 
 </div>
 <div align="center" style="margin-bottom: 20px; width: 100%;">
 
-[![Join Waiting List](https://gitspark.dev/api/github/stats-image?type=waiting-list&username=CreepOnSky&theme=dark&buttonText=Join%20Waiting%20List!&showCount=true)](https://gitspark.dev/api/github/waiting-list/click?username=CreepOnSky)
+[![Join Waiting List](https://gitspark.dev/api/github/stats-image?type=waiting-list&username=CreepOnSky&buttonText=Join%20Waiting%20List!&showCount=true)](https://gitspark.dev/api/github/waiting-list/click?username=CreepOnSky)
 
 </div>
 
